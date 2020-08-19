@@ -1,0 +1,48 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+    Driver:   27.21.14.5167
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\shoun\Documents\SuperSpartyBros\Build\Windows\SuperSpartBros_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.283600 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3310 -> priority: 1 
+  Thread -> id: 2a04 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.759800 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 0.365300 ms (FindLiveObjects: 0.024900 ms CreateObjectMapping: 0.012300 ms MarkObjects: 0.294800 ms  DeleteObjects: 0.032500 ms)
+
+Player State reset.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.558700 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 789.
+Total: 4.134300 ms (FindLiveObjects: 0.057000 ms CreateObjectMapping: 0.014500 ms MarkObjects: 0.343000 ms  DeleteObjects: 3.718700 ms)
+
